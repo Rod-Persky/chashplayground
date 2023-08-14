@@ -3,6 +3,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 
 // Coming from https://medium.com/@nik96a/using-di-with-dispatchproxy-based-decorators-in-c-net-core-ac02f02c5fe5
+// also see https://greatrexpectations.com/2018/10/25/decorators-in-net-core-with-dependency-injection
 
 namespace ConfigInjection;
 
